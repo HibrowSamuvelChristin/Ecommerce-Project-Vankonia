@@ -9,7 +9,7 @@ Developed and optimized a single-product Shopify landing page for the Vankonia s
 - Applied basic A/B testing principles to refine content clarity  
 
 **Tools Used:**  
-Shopify · Canva · Meta Ads Manager · Google Sheets
+Shopify · Canva · Meta Ads Manager · Google Sheets· DaVinci Video Editing
 
 **Note:**  
 This repo documents design notes and strategy; product sales data is not included.
