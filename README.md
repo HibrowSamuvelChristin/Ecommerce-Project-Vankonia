@@ -35,7 +35,23 @@ This repository showcases the **Vankonia Survival Water Filter** — a one-produ
 ## 🔍 Future Improvements
 - Add multilingual support  
 - A/B test hero layout  
-- Add customer reviews integration  
+- Add customer reviews integration
+
+## 📊 Marketing Results
+- **Campaign duration:** 5 days  
+- **Ad variations:** 1 (audience test for “Water Filter”)  
+- **Impressions:** 32,944  
+- **CTR (Click-through rate):** 12.32%  
+- **CPC (Cost per link click):** ₹1.21  
+- **Landing-page views:** 4,059 (48.56 % view rate)  
+- **Add-to-carts:** 2  
+- **Sales:** 0  
+
+**Summary:**  
+The ad achieved strong reach and click-through performance but failed to convert into sales.  
+After analysing the results, the campaign was **stopped to prevent overspending**, and the plan is to **rework product pricing and positioning** before testing new products in future runs.
+
+*(Screenshots of Meta Ads Manager results are included in `/media`.)*
 
 ## 🪪 License
 This project is for **portfolio and demonstration purposes only.**
