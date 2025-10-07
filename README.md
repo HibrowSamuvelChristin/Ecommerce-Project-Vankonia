@@ -1,15 +1,38 @@
-# Vankonia – Single Product Page Optimization
+# Vankonia – Water Filter Product Page (Shopify Project)
 
-**Overview:**  
-Developed and optimized a single-product Shopify landing page for the Vankonia survival water filter. Focused on simplifying technical specs into clear, conversion-driven visuals and text.
+This repository showcases the **Vankonia Survival Water Filter** — a one-product Shopify landing page optimised for clarity, conversions, and user trust.
 
-**Highlights:**  
-- Streamlined product information layout for faster user understanding  
-- Designed mobile-friendly UX and ad creatives for Meta platforms  
-- Applied basic A/B testing principles to refine content clarity  
+## 🧠 Overview
+- **Product:** VankoniaX Portable Water Filter  
+- **Goal:** Build a clean, high-converting one-product layout  
+- **Focus Areas:**  
+  - Feature-focused content sections  
+  - Simplified product specs (0.01μm filter, 550ml/min flow)  
+  - Live chat integration for customer support  
+  - Optimised mobile layout and CTA placement  
 
-**Tools Used:**  
-Shopify · Canva · Meta Ads Manager · Google Sheets· DaVinci Video Editing
+## 🎥 Demo
+[▶️ Watch the 1-minute demo video]([https://youtu.be/YOUR_UNLISTED_LINK](https://youtu.be/2-HwoXuI61A))
 
-**Note:**  
-This repo documents design notes and strategy; product sales data is not included.
+*(Private, unlisted YouTube link — viewable only with this link.)*
+
+## 📈 Highlights
+- Improved product readability & feature flow  
+- Added delivery & warranty trust elements  
+- Integrated customer support via chat  
+- Designed for faster load & mobile engagement  
+- Meta Ads test screenshots included in `/media`  
+
+## 💡 Tools Used
+- Shopify (custom sections + layout optimisation)  
+- Canva (visuals, ad creatives)  
+- Meta Ads Manager (A/B testing)  
+- DaVinci Resolve (screen recording edit)
+
+## 🔍 Future Improvements
+- Add multilingual support  
+- A/B test hero layout  
+- Add customer reviews integration  
+
+## 🪪 License
+This project is for **portfolio and demonstration purposes only.**
