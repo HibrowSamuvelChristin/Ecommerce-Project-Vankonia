@@ -2,7 +2,7 @@
 
 This repository showcases the **Vankonia Survival Water Filter** — a one-product Shopify landing page optimised for clarity, conversions, and user trust.
 
-## 🧠 Overview
+## Overview
 - **Product:** VankoniaX Portable Water Filter  
 - **Goal:** Build a clean, high-converting one-product layout  
 - **Focus Areas:**  
@@ -11,7 +11,7 @@ This repository showcases the **Vankonia Survival Water Filter** — a one-produ
   - Live chat integration for customer support  
   - Optimised mobile layout and CTA placement  
 
-## 🎥 Demo
+## Demo
 ▶️ Watch the 1-minute demo video ([https://youtu.be/2-HwoXuI61A )
 *(Private, unlisted YouTube link — viewable only with this link.)*
 ## Facebook AD Creative Used for Facebok Marketing
@@ -19,25 +19,25 @@ This repository showcases the **Vankonia Survival Water Filter** — a one-produ
 *(Private, unlisted YouTube link — viewable only with this link.)*
 
 
-## 📈 Highlights
+##  Highlights
 - Improved product readability & feature flow  
 - Added delivery & warranty trust elements  
 - Integrated customer support via chat  
 - Designed for faster load & mobile engagement  
 - Meta Ads test screenshots included in `/media`  
 
-## 💡 Tools Used
+## Tools Used
 - Shopify (custom sections + layout optimisation)  
 - Canva (visuals, ad creatives)  
 - Meta Ads Manager (A/B testing)  
 - DaVinci Resolve (screen recording edit)
 
-## 🔍 Future Improvements
+## Future Improvements
 - Add multilingual support  
 - A/B test hero layout  
 - Add customer reviews integration
 
-## 📊 Marketing Results
+## Marketing Results
 - **Campaign duration:** 5 days  
 - **Ad variations:** 1 (audience test for “Water Filter”)  
 - **Impressions:** 32,944  
